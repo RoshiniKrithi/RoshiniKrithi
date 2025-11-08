@@ -42,19 +42,8 @@
 ---
 
 ### 🚀 Projects
-
-📦 *Smart Ambulance Routing System*  
-AI-powered path optimization using graph search algorithms and machine learning.
-
 🌿 *Plant Leaf Disease Detection (DNN)*  
 Deep Neural Network for identifying crop diseases with image-based analysis.
-
-📝 *To-Do App (Java + Maven)*  
-Desktop productivity application built using *JavaFX, **Maven, and **JDBC*.
-
-🤖 *Sign Language Interpreter*  
-CNN-LSTM-based real-time gesture recognition for regional language translation.
-
 ---
 
 ### 📊 GitHub Analytics
