@@ -86,7 +86,7 @@ Deep Neural Network for identifying crop diseases with image-based analysis.
 
 ### ✨ Quote
 > “The best way to predict the future is to invent it.”  
-> — Alan Kay
+
 
 ---
 
