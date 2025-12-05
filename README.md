@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 
-🎓 I'm a *CSE 3rd year student* deeply interested in developing creative, efficient, and impactful software.  
+🎓 I'm a *CSE 3rd year student* deeply interested in developing creative, efficient, and impactful software..  
 💡 Focused on *AI, Web Development, and Data Science* — I love building projects that solve real-world problems.  
 🌱 Currently learning *React, **Machine Learning, and **Cloud Technologies*.  
 💬 Ask me about *Java, DNN Models, React Apps, or **Maven Projects*.  
