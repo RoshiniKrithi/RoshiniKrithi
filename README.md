@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20👋,%20I'm%20Roshinikrithi!&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h3 align="center">💻 Computer Science Engineering | 3rd Year Student | Passionate Developer 🚀</h3>
+<h3 align="center">💻 Computer Science Engineering | 3rd Year Student | Passionate Developer 🚀</h3>.
 
 ---
 
