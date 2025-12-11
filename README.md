@@ -1,95 +1,95 @@
-<!-- Profile Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20👋,%20I'm%20Roshinikrithi!&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
-</p>
+<h1 align="center">👋 Hey There! I'm Roshini Krithi</h1>
 
-<h3 align="center">💻 Computer Science Engineering | 3rd Year Student | Passionate Developer 🚀</h3>.
-
----
-
-### 🌟 About Me
-
-🎓 I'm a *CSE 3rd year student* deeply interested in developing creative, efficient, and impactful software..  
-💡 Focused on *AI, Web Development, and Data Science* — I love building projects that solve real-world problems.  
-🌱 Currently learning *React, **Machine Learning, and **Cloud Technologies*.  
-💬 Ask me about *Java, DNN Models, React Apps, or **Maven Projects*.  
-⚡ Fun fact: I believe coding is 1% typing and 99% thinking!
-
----
-
-### 🛠 Tech Stack
-
-#### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-</p>
-
-#### 🌐 Web Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
-
-#### 🗄 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-#### ⚙ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
-</p>
-
----
-
-### 🚀 Projects
-🌿 *Plant Leaf Disease Detection (DNN)*  
-Deep Neural Network for identifying crop diseases with image-based analysis.
----
-
-### 📊 GitHub Analytics
+<h2 align="center">💻 3rd-Year CSE Student | Developer | Tech Enthusiast 🚀</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshinikrithi&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Roshinikrithi&theme=tokyonight&hide_border=true" height="160" />
+  <em>Passionate about building things that matter, breaking things that don't, and learning everything in between.</em>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshinikrithi&bg_color=0f172a&color=38bdf8&line=38bdf8&point=facc15&hide_border=true" />
-</p>
+Hey! I'm a **Computer Science Engineering student** in my third year, deeply in love with the art of coding and problem-solving. Whether it's crafting elegant solutions to complex problems, diving into new tech stacks, or contributing to open-source projects, I'm always up for a challenge. I believe in learning by doing, and I'm constantly exploring the ever-evolving world of development. From frontend magic to backend wizardry, I'm on a mission to master it all! 💻✨
 
 ---
 
-### 🏆 Achievements & Highlights
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/RoshiniKrithi?style=social)](https://github.com/RoshiniKrithi)
+[![GitHub stars](https://img.shields.io/github/stars/RoshiniKrithi?style=social)](https://github.com/RoshiniKrithi)
+[![Profile Views](https://komarev.com/ghpvc/?username=RoshiniKrithi&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/RoshiniKrithi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:roshinikrithi0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Roshinikrithi)
 
-- 🥇 Built multiple AI + ML based mini projects.  
-- 💡 Developed a smart ambulance routing system with real-time decision logic.  
-- 🌟 Actively contributing to open-source and university-level tech fests.  
-- 📚 Certified in *Java Development, **AI Foundations, and **Web Design*.
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/roshinikrithi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:roshinikrithi@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Roshinikrithi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### ✨ Quote
-> “The best way to predict the future is to invent it.”  
+## 🛠️ Technologies & Skills
 
+<div align="center">
+  
+![Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,nodejs,mysql,mongodb,git,github,vscode,postman,figma&perline=16)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoshiniKrithi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshiniKrithi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoshiniKrithi&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/RoshiniKrithi/RoshiniKrithi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🎵 Now Playing on Spotify
+
+<div align="center">
+  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Roshinikrithi)
+
+</div>
+
+---
+
+## 🎤 KIT Toastmasters Club
+
+I'm an active and proud member of the **KIT Toastmasters Club**, where I've discovered the power of effective communication and leadership. Through engaging in table topics, delivering prepared speeches, and participating in vibrant club meetings, I've honed my public speaking skills and learned the art of thinking on my feet.
+
+Toastmasters has been more than just a club for me—it's been a journey of personal growth, confidence building, and teamwork. Whether it's providing constructive evaluations to fellow members or taking on leadership roles, I've embraced every opportunity to develop as a communicator and collaborator. The club has taught me that technical skills alone aren't enough; the ability to articulate ideas, inspire others, and work as a team is what truly makes the difference. 🎙️💡
+
+---
+
+## 💭 Quotes That Keep Me Going
+
+**Funny Developer Life:**
+- 😂 *"It works on my machine" – Every developer's favorite excuse*
+- 🐛 *"Debugging: Being the detective in a crime movie where you are also the murderer"*
+- ☕ *"Code + Coffee = Magic (and occasionally chaos)"*
+
+**Motivational Tech Wisdom:**
+- 🌟 *"The best way to predict the future is to code it."*
+- 🚀 *"Every expert was once a beginner who refused to give up."*
+
+---
+
+<div align="center">
+  
+💡 **"Keep learning, keep building, keep growing!"** 💡
+  
+</div>
