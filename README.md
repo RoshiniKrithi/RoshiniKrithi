@@ -54,6 +54,7 @@ Hey! I'm a **Computer Science Engineering student** in my third year, deeply in 
 <div align="center">
   ![snake gif](https://raw.githubusercontent.com/RoshiniKrithi/RoshiniKrithi/output/snake.svg)
 
+
 </div>
 
 ---
