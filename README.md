@@ -52,7 +52,8 @@ Hey! I'm a **Computer Science Engineering student** in my third year, deeply in 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/RoshiniKrithi/RoshiniKrithi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ![snake gif](https://raw.githubusercontent.com/RoshiniKrithi/RoshiniKrithi/output/snake.svg)
+
 </div>
 
 ---
