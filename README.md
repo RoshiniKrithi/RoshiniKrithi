@@ -50,7 +50,7 @@ Hey! I'm a **Computer Science Engineering student** in my third year, deeply in 
 
 ---
 
-## ## 🐍 Contribution Snake
+##  🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/RoshiniKrithi/RoshiniKrithi/output/snake.svg" />
 </p>
