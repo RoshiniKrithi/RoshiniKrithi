@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey There! I'm Roshini Krithi</h1>
 
-<h2 align="center">💻 3rd-Year CSE Student | Developer | Tech Enthusiast 🚀</h2>
+<h2 align="center">💻 CSE Student | Developer | Tech Enthusiast 🚀</h2>
 
 <p align="center">
   <em>Passionate about building things that matter, breaking things that don't, and learning everything in between.</em>
